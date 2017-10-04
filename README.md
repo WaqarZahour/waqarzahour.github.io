@@ -1,5 +1,5 @@
 ## About
-I have more than 7 year experience in the software industry. I am workaholic and polyglot 
+I have more than 8 year experience in the software industry. I am workaholic and polyglot 
 like Python, Swift, and Objc. Avid to explore new restaurant and enjoys good food. Loves to
 read books, watching movies and playing table tennis.
 
@@ -7,8 +7,7 @@ read books, watching movies and playing table tennis.
 
 Here are my contributions
 
-1. [Atm Interface](https://github.com/WaqarZahour/Atm-Machine)
-2. [Menu App](https://github.com/WaqarZahour/MenuApp)
+[Atm Interface](https://github.com/WaqarZahour/Atm-Machine) | [Menu App](https://github.com/WaqarZahour/MenuApp) | [Todo App](https://github.com/WaqarZahour/ToDo-App)
 
 	
 ## Reached Me	
