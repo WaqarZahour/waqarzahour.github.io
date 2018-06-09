@@ -12,7 +12,9 @@ Here are my contributions
 ## Accomplishments
 
 I have done the following specializations
-[Speicalization - Python For Everybody](https://www.coursera.org/account/accomplishments/specialization/3ZBEFD44Z87F)
+
+1. [Speicalization - Python For Everybody](https://www.coursera.org/account/accomplishments/specialization/3ZBEFD44Z87F)
+2. [Speicalization - Project Management Principles and Practice](https://www.coursera.org/account/accomplishments/specialization/W2DZA278KPMA)
 
 
 ## Reached Me	
