@@ -4,22 +4,19 @@ like Python, Swift, and Objc. Avid to explore new restaurant and enjoys good foo
 read books, watching movies and playing table tennis.
 
 ## Accomplishments
-
 I have done the following specializations
 
-1. [Speicalization - Python For Everybody](https://www.coursera.org/account/accomplishments/specialization/3ZBEFD44Z87F)
-2. [Speicalization - Project Management Principles and Practice](https://www.coursera.org/account/accomplishments/specialization/W2DZA278KPMA)
+-  [Speicalization - Python For Everybody](https://www.coursera.org/account/accomplishments/specialization/3ZBEFD44Z87F)
+-  [Speicalization - Project Management Principles and Practice](https://www.coursera.org/account/accomplishments/specialization/W2DZA278KPMA)
 
 ## Books
-
 The books are your friends, **Warren Buffett** (_"Price is what you pay. Value is what you get."_) is my insipartion towards to start reading books. Here is my bucket list
 
-1. Swift Apprientice
-2. Programming Interview Exposed
-3. Pro Swift by Paul Hudson
+> - Swift Apprientice
+> - Programming Interview Exposed
+> - Pro Swift by Paul Hudson
 
 ## Contributions
-
 Here are my contributions
 
 [Atm Interface](https://github.com/WaqarZahour/Atm-Machine) | [Menu App](https://github.com/WaqarZahour/MenuApp) | [Todo App](https://github.com/WaqarZahour/ToDo-App)
@@ -27,11 +24,10 @@ Here are my contributions
 ## Miscellaneous
 Related about good reads, that can be any site or github repo or artice links.
 
-1. [Cheats Sheets](https://devhints.io)
-2. [Coding Interview Prepration](https://github.com/jwasham/coding-interview-university)
-3. [iOS Tips](https://iosdevweekly.com)
+-  [Cheats Sheets](https://devhints.io)
+-  [Coding Interview Prepration](https://github.com/jwasham/coding-interview-university)
+-  [iOS Tips](https://iosdevweekly.com)
 
 ## Reached Me	
-
 If you would like to talk... just shoot me an email. I can be reached 
 at `waqar.zahour@gmail.com`
