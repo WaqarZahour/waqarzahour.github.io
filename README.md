@@ -24,6 +24,13 @@ Here are my contributions
 
 [Atm Interface](https://github.com/WaqarZahour/Atm-Machine) | [Menu App](https://github.com/WaqarZahour/MenuApp) | [Todo App](https://github.com/WaqarZahour/ToDo-App)
 
+## Miscellaneous
+Related about good reads, that can be any site or github repo or artice links.
+
+1. [Cheats Sheets](https://devhints.io)
+2. [Coding Interview Prepration](https://github.com/jwasham/coding-interview-university)
+3. [iOS Tips](https://iosdevweekly.com)
+
 ## Reached Me	
 
 If you would like to talk... just shoot me an email. I can be reached 
