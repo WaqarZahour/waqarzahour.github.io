@@ -1,6 +1,6 @@
 ## About
-I have more than 10 years experience in the software industry. I am workaholic and polyglot 
-like Python, Swift, and Objc. Avid to explore new restaurant and enjoys good food. Loves to
+I have more than 10 years experience in the software industry. I did my master in computer scricence from [LUMS](https://lums.edu.pk/). 
+I am workaholic and polyglot like **Python**,  **Swift**, and **Objc**. Avid to explore new restaurant and enjoys good food. Loves to
 read books, watching movies and playing table tennis.
 
 ## Accomplishments
@@ -22,10 +22,11 @@ Here are my contributions
 [Atm Interface](https://github.com/WaqarZahour/Atm-Machine) | [Menu App](https://github.com/WaqarZahour/MenuApp) | [Todo App](https://github.com/WaqarZahour/ToDo-App)
 
 ## Miscellaneous
-Related about good reads, that can be any site or github repo or artice links.
+Related about good reads / coding, that can be any site or github repo or artice links.
 
 -  [Cheats Sheets](https://devhints.io)
 -  [Coding Interview Prepration](https://github.com/jwasham/coding-interview-university)
+-  [Hands dirty with code](https://www.hackerrank.com/waqar_zahour)
 -  [iOS Tips](https://iosdevweekly.com)
 
 ## Reached Me	
