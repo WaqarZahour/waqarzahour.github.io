@@ -8,7 +8,7 @@ read books, watching movies and playing table tennis.
 ## Skills
 Less is more, I specialize in the field of developement.
 
-`Swift`  |  `Python`  |  `VI Editor`  |  `Tmux`  |  `AWS - Basics`  | 
+`Swift`   `Python`  `VI Editor`   `Tmux`   `AWS - Basics` 
 
 ## Accomplishments
 I have done the following specializations
