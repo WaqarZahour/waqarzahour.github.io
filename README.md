@@ -1,7 +1,14 @@
 ## About
+#### Hi, I am Waqar Zahour.
+
 I have more than 10 years experience in the software industry. I did my master in computer scricence from [LUMS](https://lums.edu.pk/). 
 I am workaholic and polyglot like **Python**,  **Swift**, and **Objc**. Avid to explore new restaurant and enjoys good food. Loves to
 read books, watching movies and playing table tennis.
+
+## Skills
+Less is more, I specialize in the field of developement.
+
+`Swift`  |  `Python`  |  `VI Editor`  |  `Tmux`  |  `AWS - Basics`  | 
 
 ## Accomplishments
 I have done the following specializations
