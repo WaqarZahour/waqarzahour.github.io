@@ -13,15 +13,16 @@ Less is more, I specialize in the field of developement.
 ## Accomplishments
 I have done the following specializations
 
--  [Speicalization - Python For Everybody](https://www.coursera.org/account/accomplishments/specialization/3ZBEFD44Z87F)
--  [Speicalization - Project Management Principles and Practice](https://www.coursera.org/account/accomplishments/specialization/W2DZA278KPMA)
+-  **Coursera:** [Speicalization - Python For Everybody](https://www.coursera.org/account/accomplishments/specialization/3ZBEFD44Z87F)
+-  **Coursera:** [Speicalization - Project Management Principles and Practice](https://www.coursera.org/account/accomplishments/specialization/W2DZA278KPMA)
 
 ## Books
 The books are your friends, **Warren Buffett** (_"Price is what you pay. Value is what you get."_) is my insipartion towards to start reading books. Here is my bucket list
 
-> - Swift Apprientice
-> - Programming Interview Exposed
-> - Pro Swift by Paul Hudson
+ - Swift Apprientice
+ - Programming Interview Exposed
+ - Pro Swift by Paul Hudson
+ - The Subtle Art of Not Giving a F*ck
 
 ## Contributions
 Here are my contributions
@@ -33,9 +34,9 @@ Related about good reads / coding, that can be any site or github repo or artice
 
 -  [Cheats Sheets](https://devhints.io)
 -  [Coding Interview Prepration](https://github.com/jwasham/coding-interview-university)
--  [Hands dirty with code](https://www.hackerrank.com/waqar_zahour)
+-  [Hands dirty with code - Hacker Rank](https://www.hackerrank.com/waqar_zahour)
 -  [iOS Tips](https://iosdevweekly.com)
 
-## Reached Me	
-If you would like to talk... just shoot me an email. I can be reached 
+## Reach Me	
+If you would like to talk, just shoot me an email. You can reach me via email
 at `waqar.zahour@gmail.com`
