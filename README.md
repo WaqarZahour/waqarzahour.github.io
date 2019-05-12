@@ -6,8 +6,8 @@ I am workaholic and polyglot like **Python**,  **Swift**, and **Objc**. Avid to 
 read books, watching movies and playing table tennis.
 
 > _**Fun factoids:**_  
-> Check your keyboard works by typing "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"  
-> Your brain will stop thinking when contradiction occurs "A PERFUME WITHOUT FRAGRANCE"  
+Check your keyboard works by typing "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"  
+Your brain will stop thinking when contradiction occurs "A PERFUME WITHOUT FRAGRANCE"  
 
 ## Skills
 Less is more, I specialize in the field of developement.
