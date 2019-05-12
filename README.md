@@ -5,8 +5,9 @@ I have more than 10 years experience in the software industry. I did my master i
 I am workaholic and polyglot like **Python**,  **Swift**, and **Objc**. Avid to explore new restaurant and enjoys good food. Loves to
 read books, watching movies and playing table tennis.
 
-> _**Fun factoid:**_ To check your keyboard works by typing 
-> "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"
+> _**Fun factoids:**_ 
+To check your keyboard works by typing "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"
+Your brain will stop thinking when contradiction occurs "A PERFUME WITHOUT FRAGRANCE"
 
 ## Skills
 Less is more, I specialize in the field of developement.
@@ -41,5 +42,4 @@ Related about good reads / coding, that can be any site or github repo or artice
 -  [iOS Tips](https://iosdevweekly.com)
 
 ## Reach Me	
-If you would like to talk, just shoot me an email. You can reach me via email
-at `waqar.zahour@gmail.com`
+If you would like to talk, just shoot me an email. You can reach me via email at `waqar.zahour@gmail.com`
