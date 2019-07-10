@@ -23,10 +23,11 @@ I have done the following specializations
 ## Books
 The books are your friends, **Warren Buffett** (_"Price is what you pay. Value is what you get."_) is my insipartion towards to start reading books. Here is my bucket list
 
- - Swift Apprientice
- - Programming Interview Exposed
- - Pro Swift by Paul Hudson
- - The Subtle Art of Not Giving a F*ck
+ - Programming Interview Exposed by _John Mongan, Eric Giguere, Noah Kindler_
+ - Swift Apprientice by _The Raywenderlich Team_
+ - Pro Swift by _Paul Hudson_
+ - The Subtle Art of Not Giving a F*ck by _Mark Manson_
+ - 
 
 ## Contributions
 Here are my contributions
