@@ -27,7 +27,8 @@ The books are your friends, **Warren Buffett** (_"Price is what you pay. Value i
  - Swift Apprientice by __The Raywenderlich Team__
  - Pro Swift by __Paul Hudson__
  - The Subtle Art of Not Giving a F*ck by __Mark Manson__
- - The Hard Things About Hard Things by __Ben Horowitz__  [I'M REAGING NOW]
+ - The Hard Things About Hard Things by __Ben Horowitz__ 
+ - How to Win Friends and Influence People by __Dale Carnegie__  [I'M REAGING NOW]
 
 ## Contributions
 Here are my contributions
