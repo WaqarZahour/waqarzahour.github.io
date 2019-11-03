@@ -35,7 +35,7 @@ The books are your friends, **Warren Buffett** (_"Price is what you pay. Value i
 ## Contributions
 Here are my contributions
 
-[Atm Interface](https://github.com/WaqarZahour/Atm-Machine) | [Menu App](https://github.com/WaqarZahour/MenuApp) | [Todo App](https://github.com/WaqarZahour/ToDo-App)
+[Atm Interface](https://github.com/WaqarZahour/Atm-Machine) | [Menu App](https://github.com/WaqarZahour/MenuApp) | [Todo App with *Swift 5.0*](https://github.com/WaqarZahour/ToDo-App)
 
 ## Miscellaneous
 Related about good reads / coding, that can be any site or github repo or artice links.
