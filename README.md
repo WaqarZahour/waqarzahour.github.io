@@ -28,9 +28,9 @@ The books are your friends, **Warren Buffett** (_"Price is what you pay. Value i
  - Pro Swift by __Paul Hudson__
  - The Subtle Art of Not Giving a F*ck by __Mark Manson__
  - The Hard Things About Hard Things by __Ben Horowitz__ 
- - How to Win Friends and Influence People by __Dale Carnegie__  [I'M REAGING NOW]
- - Python Tricks by __Dad Bader__  [I'M REAGING NOW]
- - SwiftUI by Example by __Paul Hudson__  [I'M REAGING NOW]
+ - How to Win Friends and Influence People by __Dale Carnegie__  [I'M READING NOW]
+ - Python Tricks by __Dad Bader__  [I'M READING NOW]
+ - SwiftUI by Example by __Paul Hudson__  [I'M READING NOW]
 
 ## Contributions
 Here are my contributions
