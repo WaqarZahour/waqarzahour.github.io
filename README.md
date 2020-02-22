@@ -7,7 +7,8 @@ read books, watching movies and playing table tennis.
 
 > _**Fun factoids:**_  
 Check keyboard works by typing "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"  
-Your brain will stop thinking when contradiction occurs "A PERFUME WITHOUT FRAGRANCE"  
+Your brain will stop thinking when contradiction occurs "A PERFUME WITHOUT FRAGRANCE"
+The hardest job is "TO SQUEEZE YOUR WARDROBE"
 
 ## Skills
 Less is more, I specialize in the field of developement.
@@ -30,7 +31,8 @@ The books are your friends, **Warren Buffett** (_"Price is what you pay. Value i
  - The Hard Things About Hard Things by __Ben Horowitz__ 
  - How to Win Friends and Influence People by __Dale Carnegie__  [I'M READING NOW]
  - Python Tricks by __Dad Bader__  [I'M READING NOW]
- - SwiftUI by Example by __Paul Hudson__  [I'M READING NOW]
+ - SwiftUI by Example by __Paul Hudson__
+ - Combine by __Raywanderlich Team__ [I'M READING NOW]
 
 ## Contributions
 Here are my contributions
