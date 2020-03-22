@@ -2,7 +2,7 @@
 #### Hi, I am Waqar Zahour.
 
 I have more than 10 years of experience in the software industry. I did my master in computer science from [LUMS](https://lums.edu.pk/). 
-I am workaholic and polyglot like **Python**,  **Swift**, and **Objc**. Avid to explore a new restaurant and enjoys good food. Loves to
+I am polyglot like **Python**,  **Swift**, and **Objective-C**. Avid to explore a new restaurant and enjoys good food. Loves to
 read books, watching movies and playing table tennis.
 
 > _**Fun factoids:**_  
@@ -18,8 +18,8 @@ Less is more, I specialize in the field of development.
 ## Accomplishments
 I have done the following specializations
 
--  **Coursera:** [Speicalization - Python For Everybody](https://www.coursera.org/account/accomplishments/specialization/3ZBEFD44Z87F)
--  **Coursera:** [Speicalization - Project Management Principles and Practice](https://www.coursera.org/account/accomplishments/specialization/W2DZA278KPMA)
+-  **Coursera:** [Specialization - Python For Everybody](https://www.coursera.org/account/accomplishments/specialization/3ZBEFD44Z87F)
+-  **Coursera:** [Specialization - Project Management Principles and Practice](https://www.coursera.org/account/accomplishments/specialization/W2DZA278KPMA)
 
 ## Books
 The books are your friends, **Warren Buffett** (_"Price is what you pay. Value is what you get."_) is my hunch towards to start reading books. Here is my bucket list
@@ -43,7 +43,7 @@ Here are my contributions
 Related about good reads/coding, that can be any site or Github repo or feature links.
 
 -  [Cheats Sheets](https://devhints.io)
--  [Coding Interview Prepration](https://github.com/jwasham/coding-interview-university)
+-  [Coding Interview Preparation](https://github.com/jwasham/coding-interview-university)
 -  [Hands dirty with code - Hacker Rank](https://www.hackerrank.com/waqar_zahour)
 -  [iOS Tips](https://iosdevweekly.com)
 
