@@ -7,7 +7,8 @@ read books, watching movies and playing table tennis.
 
 > _**Fun factoids:**_  
 Check keyboard works by typing "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"  
-Your brain will stop thinking when contradiction occurs "A PERFUME WITHOUT FRAGRANCE"         The hardest job is "TO SQUEEZE YOUR WARDROBE"                                                                          
+Your brain will stop thinking when contradiction occurs "A PERFUME WITHOUT FRAGRANCE"         
+The hardest job is "TO SQUEEZE YOUR WARDROBE"                                                                          
 Doesn't matter how many time you fail in an interview "WILL NOT REFLECT ON YOUR RESUME"
 
 ## Skills
