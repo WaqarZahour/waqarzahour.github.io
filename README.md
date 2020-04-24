@@ -6,10 +6,10 @@ I am polyglot like **Python**,  **Swift**, and **Objective-C**. Avid to explore 
 read books, watching movies and playing table tennis.
 
 > _**Fun factoids:**_  
-Check keyboard works by typing "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG."  
-Your brain will stop thinking when contradiction occurs "A PERFUME WITHOUT FRAGRANCE."
-The hardest job is "TO SQUEEZE YOUR WARDROBE."
-Doesn't matter how many time you fail in an interview "IT WILL REFLECT ON YOUR RESUME."
+Check keyboard works by typing "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"  
+Your brain will stop thinking when contradiction occurs "A PERFUME WITHOUT FRAGRANCE"
+The hardest job is "TO SQUEEZE YOUR WARDROBE"
+Doesn't matter how many time you fail in an interview "IT WILL NOT REFLECT ON YOUR RESUME"
 
 ## Skills
 Less is more, I specialize in the field of development.
