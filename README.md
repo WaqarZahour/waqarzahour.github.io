@@ -1,29 +1,27 @@
 ## About
 #### Hi, I am Waqar Zahour.
 
-I have more than 10 years of experience in the software industry. I did my master in computer science from [Lahore University Of Management Sciences](https://lums.edu.pk/). 
-I am polyglot like **Python**,  **Swift**, and **Objective-C**. Avid to explore a new restaurant and enjoys good food. Loves to
-read books, watching movies and playing table tennis.
+I have more than 10 years of experience in the software industry. I did my master in computer science from [Lahore University Of Management Sciences](https://lums.edu.pk/). I am a polyglot and I like programming in **Python**,  **Swift**, and **Objective-C**. I enjoy great food and like to explore new restaurants. I also love to read books, watch movies and play table tennis.
 
 > _**Fun factoids:**_  
-Check keyboard works by typing "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"  
-Your brain will stop thinking when contradiction occurs "A PERFUME WITHOUT FRAGRANCE"         
-The hardest job is "TO SQUEEZE YOUR WARDROBE"                                                                          
-Doesn't matter how many time you fail in an interview "WILL NOT REFLECT ON YOUR RESUME"
+Check keyboard works by typing "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG."  
+Your brain will stop thinking when contradiction occurs "A PERFUME WITHOUT FRAGRANCE."         
+The hardest job is "TO SQUEEZE YOUR WARDROBE."                                                                          
+Doesn't matter how many time you fail in an interview "WILL NOT REFLECT ON YOUR RESUME."
 
 ## Skills
-Less is more, I specialize in the field of development.
+Less is more, I specialize in the field of software development and I use following programming languages and tools.
 
 `Swift`   `Python`  `VI Editor`   `Tmux`   `AWS - Basics` 
 
 ## Accomplishments
-I have done the following specializations
+I have done the following Coursera specializations:
 
 -  **Coursera:** [Specialization - Python For Everybody](https://www.coursera.org/account/accomplishments/specialization/3ZBEFD44Z87F)
 -  **Coursera:** [Specialization - Project Management Principles and Practice](https://www.coursera.org/account/accomplishments/specialization/W2DZA278KPMA)
 
 ## Books
-The books are your friends, **Warren Buffett** (_"Price is what you pay. Value is what you get."_) is my hunch towards to start reading books. Here is my bucket list
+I love reading books. Following are some books that I enjoyed reading recently:
 
  - Programming Interview Exposed by __John Mongan, Eric Giguere, Noah Kindler__
  - Swift Apprentice by __The Raywenderlich Team__
@@ -36,17 +34,9 @@ The books are your friends, **Warren Buffett** (_"Price is what you pay. Value i
  - Combine by __The Raywenderlich Team__ - [I'M READING NOW]
 
 ## Contributions
-Here are my contributions
+Following are some of my open-source contributions on Github:
 
 [Atm Interface](https://github.com/WaqarZahour/Atm-Machine) | [Menu App](https://github.com/WaqarZahour/MenuApp) | [Todo App with *Swift 5.0*](https://github.com/WaqarZahour/ToDo-App)
 
-## Miscellaneous
-Related about good reads/coding, that can be any site or Github repo or feature links.
-
--  [Cheats Sheets](https://devhints.io)
--  [Coding Interview Preparation](https://github.com/jwasham/coding-interview-university)
--  [Hands dirty with code - Hacker Rank](https://www.hackerrank.com/waqar_zahour)
--  [iOS Tips](https://iosdevweekly.com)
-
 ## Reach Me	
-If you would like to talk, just shoot me an email. You can reach me via email at `waqar.zahour@gmail.com`
+Please feel free to email me, I like making new friends. Email me at `waqar.zahour@gmail.com`.
