@@ -26,7 +26,8 @@ I love reading books. Following are some books that I enjoyed reading recently:
  - How to Win Friends and Influence People by __Dale Carnegie__
  - Python Tricks by __Dad Bader__  - [I'M READING NOW]
  - SwiftUI by Example by __Paul Hudson__
- - Combine by __The Raywenderlich Team__ - [I'M READING NOW]
+ - Combine Asynchronous Programming with Swift by __The Raywenderlich Team__
+ - Rich Dad Poor Dad by __Robert T. Kiyosaki__ - [I'M READING NOW]
 
 ## Contributions
 Following are some of my open-source contributions on Github:
