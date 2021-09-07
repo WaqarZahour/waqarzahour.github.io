@@ -21,16 +21,16 @@ I have done the following Coursera + Udemy specializations:
 ## Books
 I love reading books. Following are some books that I enjoyed reading recently:
 
- - `Programming Interview Exposed` by __John Mongan, Eric Giguere, Noah Kindler__
- - `Swift Apprentice` by __The Raywenderlich Team__
- - `Pro Swift` by __Paul Hudson__
- - `The Subtle Art of Not Giving a F*ck` by __Mark Manson__
- - `The Hard Things About Hard Things` by __Ben Horowitz__ 
- - `How to Win Friends and Influence People` by __Dale Carnegie__
- - `SwiftUI by Example` by __Paul Hudson__
- - `Combine Asynchronous Programming with Swif`t by __The Raywenderlich Team__
- - `Rich Dad Poor Dad` by __Robert T. Kiyosaki__ 
- - `Building Mobile Apps at Scale` by __Gergely Orosz__
+ - `Programming Interview Exposed`-  __John Mongan, Eric Giguere, Noah Kindler__
+ - `Swift Apprentice`-  __The Raywenderlich Team__
+ - `Pro Swift`-  __Paul Hudson__
+ - `The Subtle Art of Not Giving a F*ck`-  __Mark Manson__
+ - `The Hard Things About Hard Things`-  __Ben Horowitz__ 
+ - `How to Win Friends and Influence People`-  __Dale Carnegie__
+ - `SwiftUI by Example`-  __Paul Hudson__
+ - `Combine Asynchronous Programming with Swift`-  __The Raywenderlich Team__
+ - `Rich Dad Poor Dad`-  __Robert T. Kiyosaki__ 
+ - `Building Mobile Apps at Scale`-  __Gergely Orosz__
 
 ## Contributions
 Following are some of my open-source contributions on Github:
