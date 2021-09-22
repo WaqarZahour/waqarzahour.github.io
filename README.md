@@ -17,6 +17,7 @@ I have done the following Coursera + Udemy specializations:
 -  **Udemy:** [Swift UI Master Class](https://udemy-certificate.s3.amazonaws.com/pdf/UC-3f72ea72-b921-4c84-ad6b-33ebc8debec8.pdf)
 -  **Udemy:** [Unit Testing with Mobile App](https://udemy-certificate.s3.amazonaws.com/pdf/UC-e846813c-3626-4960-8849-c6640c0c59c3.pdf)
 -  **Udemy:** [Git & Github](https://udemy-certificate.s3.amazonaws.com/pdf/UC-33894480-bccb-4b13-b813-fa175c70df31.pdf)
+-  **Udemy:** [Data Structures and Algorithms in Swift](https://udemy-certificate.s3.amazonaws.com/pdf/UC-cd7c263b-4c65-47d4-acdc-f7ef6bb56002.pdf)
 
 ## Books
 I love reading books. Following are some books that I enjoyed reading recently:
@@ -38,4 +39,4 @@ Following are some of my open-source contributions on Github:
 [Atm Interface](https://github.com/WaqarZahour/Atm-Machine) | [Menu App](https://github.com/WaqarZahour/MenuApp) | [Todo App with *Swift 5.0*](https://github.com/WaqarZahour/ToDo-App)
 
 ## Reach Me	
-Please feel free to email me, I like making new friends. Email me at `waqar.zahour@gmail.com`.
+Please feel free to email me, I like making new friends. Email me at `waqar.zahour@gmail.com`
