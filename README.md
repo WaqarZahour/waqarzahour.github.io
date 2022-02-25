@@ -34,21 +34,19 @@ I love reading books. Following are some books that I enjoyed reading recently:
  - `Building Mobile Apps at Scale`-  __Gergely Orosz__
 
 ## Independent Projects 
- 
- __iPhone Consultant__ 
-We have developed iPhone applications for multiple clients.
+I have developed iPhone applications for multiple clients.
 
 [Dubai Mall](https://apps.apple.com/ca/app/the-dubai-mall/id430795858)
-Experience the world’s largest luxury mall from your phone.
-Features: Explore more than 1300+ store with navigation and enjoy good food with 200+ restaurants
+Experience the world’s largest luxury mall from your phone.<br />
+<ins>Features:</ins> Explore more than 1300+ store with navigation and enjoy good food with 200+ restaurants
 
 [Mind Map](http://itunes.apple.com/us/app/edna/id513187357?mt=8)
-EDNA offers a new perspective on the writing process for students to break through any barriers.
-Features: Organize your ideas as Bubbles (landscape mode) / Outline (portrait mode).
+EDNA offers a new perspective on the writing process for students to break through any barriers.<br />
+<ins>Features:</ins> Organize your ideas as Bubbles (landscape mode) / Outline (portrait mode).
 
 [Magazine Applications](http://www.otheredition.com/)
-We developed a magazine application for iPad / iPhone.
-Features: Landscape gallery, Zoom, social media integration (Facebook, Twitter), video player.
+We developed a magazine application for iPad / iPhone.<br />
+<ins>Features:</ins> Landscape gallery, Zoom, social media integration (Facebook, Twitter), video player.
 
 ## Contributions
 Following are some of my open-source contributions on Github:
