@@ -6,7 +6,7 @@ I have more than 10 years of experience in the software industry. I did my maste
 ## Skills
 Less is more, I specialize in the field of software development and I use following programming languages and tools.
 
-`Swift`  `Swift UI`  `Async await in iOS`  `Combine`  `Python`  `VI Editor`  `Git`  `Tmux`  `AWS - Basics` 
+`Swift` `Swift UI` `Async await in iOS` `Combine` `Python` `VI Editor` `Git` `Tmux` `AWS - Basics` `TDD`
 
 ## Accomplishments
 I have done the following Coursera + Udemy specializations:
