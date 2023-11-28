@@ -6,7 +6,7 @@ I have more than 10 years of experience in the software industry. I did my maste
 ## Skills
 Less is more, I specialize in the field of software development and I use following programming languages and tools.
 
-`Swift`   `Swift UI`  `Python`  `VI Editor`  `Git`   `Tmux`   `AWS - Basics` 
+`Swift`  `Swift UI`  `Async await in iOS`  `Combine`  `Python`  `VI Editor`  `Git`  `Tmux`  `AWS - Basics` 
 
 ## Accomplishments
 I have done the following Coursera + Udemy specializations:
@@ -32,6 +32,7 @@ I love reading books. Following are some books that I enjoyed reading recently:
  - `Combine Asynchronous Programming with Swift`-  __The Raywenderlich Team__
  - `Rich Dad Poor Dad`-  __Robert T. Kiyosaki__ 
  - `Building Mobile Apps at Scale`-  __Gergely Orosz__
+ - `The FIVE Dysfunctions of a Team`-  __Patrick Lencioni__
 
 ## Independent Projects 
 I have developed iPhone applications for multiple clients.
