@@ -20,9 +20,7 @@ I have done the following Coursera & Udemy specializations:
 -  **Udemy:** [Data Structures and Algorithms in Swift](https://udemy-certificate.s3.amazonaws.com/pdf/UC-cd7c263b-4c65-47d4-acdc-f7ef6bb56002.pdf)
 
 ## Books
-I love reading books. Following are some books that I enjoyed reading recently:
-
-[My Catalog](https://waqarzahour.notion.site/waqarzahour/Book-Gallery-553e843cbf3347a8b435396a6865a7c7)
+I love reading books. Following are some books that I enjoyed reading recently: **[My Catalog]**(https://waqarzahour.notion.site/waqarzahour/Book-Gallery-553e843cbf3347a8b435396a6865a7c7)
 
 ## Independent Projects 
 I have developed iPhone applications for multiple clients.
