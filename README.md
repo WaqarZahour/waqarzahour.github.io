@@ -22,7 +22,7 @@ I have done the following Coursera & Udemy specializations:
 ## Books
 I love reading books. Following are some books that I enjoyed reading recently:
 
-[My Catalog][https://waqarzahour.notion.site/waqarzahour/Book-Gallery-553e843cbf3347a8b435396a6865a7c7]
+[My Catalog](https://waqarzahour.notion.site/waqarzahour/Book-Gallery-553e843cbf3347a8b435396a6865a7c7)
 
 ## Independent Projects 
 I have developed iPhone applications for multiple clients.
