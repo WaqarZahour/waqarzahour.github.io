@@ -22,17 +22,7 @@ I have done the following Coursera & Udemy specializations:
 ## Books
 I love reading books. Following are some books that I enjoyed reading recently:
 
- - `Programming Interview Exposed`-  __John Mongan, Eric Giguere, Noah Kindler__
- - `Swift Apprentice`-  __The Raywenderlich Team__
- - `Pro Swift`-  __Paul Hudson__
- - `The Subtle Art of Not Giving a F*ck`-  __Mark Manson__
- - `The Hard Things About Hard Things`-  __Ben Horowitz__ 
- - `How to Win Friends and Influence People`-  __Dale Carnegie__
- - `SwiftUI by Example`-  __Paul Hudson__
- - `Combine Asynchronous Programming with Swift`-  __The Raywenderlich Team__
- - `Rich Dad Poor Dad`-  __Robert T. Kiyosaki__ 
- - `Building Mobile Apps at Scale`-  __Gergely Orosz__
- - `The FIVE Dysfunctions of a Team`-  __Patrick Lencioni__
+[My Catalog][https://waqarzahour.notion.site/waqarzahour/Book-Gallery-553e843cbf3347a8b435396a6865a7c7]
 
 ## Independent Projects 
 I have developed iPhone applications for multiple clients.
