@@ -1,14 +1,14 @@
-## About
+## __About__
 #### Hi, I am Waqar Zahour.
 
 I have more than 10 years of experience in the software industry. I did my master in computer science from [Lahore University Of Management Sciences](https://lums.edu.pk/). I am a polyglot and I like programming in **Python**,  **Swift**, and **Objective-C**. I enjoy great food and like to explore new restaurants. I also love to read books, watch movies and play table tennis.
 
-## Skills
+## __Skills__
 Less is more, I specialize in the field of software development and I use following programming languages and tools.
 
 `Swift` `Swift UI` `Async await in iOS` `Combine` `Python` `Fastlane` `VI Editor` `Git` `Tmux` `AWS - Basics` `TDD` `cicleci`
 
-## Accomplishments
+## __Accomplishments__
 I have done the following Coursera & Udemy specializations:
 
 -  **Coursera:** [Specialization - Python For Everybody](https://www.coursera.org/account/accomplishments/specialization/3ZBEFD44Z87F)
@@ -19,10 +19,10 @@ I have done the following Coursera & Udemy specializations:
 -  **Udemy:** [Git & Github](https://udemy-certificate.s3.amazonaws.com/pdf/UC-33894480-bccb-4b13-b813-fa175c70df31.pdf)
 -  **Udemy:** [Data Structures and Algorithms in Swift](https://udemy-certificate.s3.amazonaws.com/pdf/UC-cd7c263b-4c65-47d4-acdc-f7ef6bb56002.pdf)
 
-## Books
+## __Books__
 I love reading books. Following are some books that I enjoyed reading recently: [My Catalog](https://waqarzahour.notion.site/waqarzahour/Book-Gallery-553e843cbf3347a8b435396a6865a7c7)
 
-## Independent Projects 
+## __Independent Projects__ 
 I have developed iPhone applications for multiple clients.
 
 [Dubai Mall](https://apps.apple.com/ca/app/the-dubai-mall/id430795858)
@@ -37,10 +37,10 @@ EDNA offers a new perspective on the writing process for students to break throu
 We developed a magazine application for iPad / iPhone.<br />
 <ins>Features:</ins> Landscape gallery, Zoom, social media integration (Facebook, Twitter), video player.
 
-## Contributions
+## __Contributions__
 Following are some of my open-source contributions on Github:
 
-[Atm Interface](https://github.com/WaqarZahour/Atm-Machine) | [Menu App](https://github.com/WaqarZahour/MenuApp) | [Todo App with *Swift 5.0*](https://github.com/WaqarZahour/ToDo-App)
+[Atm Interface](https://github.com/WaqarZahour/Atm-Machine) | [Menu App](https://github.com/WaqarZahour/MenuApp) | [Todo App with Swift 5.0](https://github.com/WaqarZahour/ToDo-App)
 
-## Reach Me	
+## __Reach Me__
 Please feel free to email me, I like making new friends. Email me at `waqar.zahour@gmail.com`
