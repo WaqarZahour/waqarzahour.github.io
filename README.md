@@ -8,7 +8,7 @@ Less is more, I specialize in the field of software development and I use follow
 
 `Swift` `Swift UI` `Async await in iOS` `Combine` `Python` `Fastlane` `VI Editor` `Git` `Tmux` `AWS - Basics` `TDD` `cicleci`
 
-## <ins>Accomplishments:</<ins>
+## <ins>Accomplishments:</ins>
 I have done the following Coursera & Udemy specializations:
 
 -  **Coursera:** [Specialization - Python For Everybody](https://www.coursera.org/account/accomplishments/specialization/3ZBEFD44Z87F)
