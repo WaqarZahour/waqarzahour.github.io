@@ -4,9 +4,9 @@
 I have more than 10 years of experience in the software industry. I did my master in computer science from [Lahore University Of Management Sciences](https://lums.edu.pk/). I am a polyglot and I like programming in **Python**,  **Swift**, and **Objective-C**. I enjoy great food and like to explore new restaurants. I also love to read books, watch movies and play table tennis.
 
 ## <ins>Skills:</ins>
-Less is more, I specialize in the field of software development and I use following programming languages and tools.
+I specialize in the field of software development and I use following programming languages and tools.
 
-`Swift` `Swift UI` `Async await in iOS` `Combine` `Python` `Fastlane` `VI Editor` `Git` `Tmux` `AWS - Basics` `TDD` `cicleci`
+`Swift` `Swift UI` `Async await in iOS` `Combine` `Python` `Fastlane` `VI Editor` `Git` `Tmux` `Dart` `AWS - Basics` `TDD` `Flutter` `cicleci` `Notion`
 
 ## <ins>Accomplishments:</ins>
 I have done the following Coursera & Udemy specializations:
